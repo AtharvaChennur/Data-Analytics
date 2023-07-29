@@ -38,6 +38,6 @@ Feel free to explore the projects and their respective directories. Each project
 
 ## Contact Me
 
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me via email at atharva.chennur@example.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/atharva-chennur/).
+If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me via email at chennuratharva@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/atharva-chennur/).
 
 Thank you for visiting my repository, and I hope you find my data analytics projects insightful and inspiring! Happy analyzing!

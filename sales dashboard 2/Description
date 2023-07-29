@@ -1,0 +1,29 @@
+Awesome Chocolate Sales Dashboard, a powerful tool that provides an overview of sales performance for salespersons 
+and chocolate categories. This dashboard showcases revenue generated, total cost required, and trend charts for
+easy analysis and decision-making.
+
+Key Components:
+
+1. Sales by Salesperson:
+A bar chart or table displays the sales performance of each salesperson. This visualization allows you to compare individual
+contributions and identify top-performing salespersons.
+
+2. Sales by Chocolate Category (Bars and Bites):
+A stacked bar chart illustrates sales figures for chocolate categories, namely Bars and Bites. This visualization helps you
+understand which category drives more revenue and analyze product popularity.
+
+3. Revenue Generated:
+A trend chart, such as a line chart or area chart, showcases the revenue generated over time. This visualization enables you to
+track sales performance, identify peak seasons, and detect growth patterns.
+
+4. Total Cost Required:
+A bar chart or pie chart presents the total cost incurred for chocolate production and sales. This visualization allows you to 
+assess profitability and cost management.
+
+Data Filtering:
+
+You can apply filters on the dashboard to focus on specific salespersons or chocolate categories. This interactive feature empowers 
+you to drill down into relevant data and gain deeper insights.
+
+With the Awesome Chocolate Sales Dashboard, you can efficiently monitor and analyze your sales team's performance, track revenue
+and costs, and identify growth opportunities. Make data-driven decisions to boost sales, optimize resources, and ensure the success of your chocolate business. Happy analyzing and selling!

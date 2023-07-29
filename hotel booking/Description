@@ -1,0 +1,18 @@
+Hotel Booking Dataset DashboardThis comprehensive tool utilizes various visualization techniques, including Pie Charts, Tree Maps, and Bar Charts, to help you gain 
+valuable insights into booking trends and revenue generation.
+
+1. Weekday vs. Weekend Trend:
+The dashboard showcases a line chart that illustrates the booking trends for each city, differentiating between weekdays and weekends. This visualization will enable you to identify patterns in booking behavior, providing a deeper understanding of guest preferences and helping you optimize pricing and marketing strategies accordingly.
+
+2. Revenue Generated:
+A stacked bar chart displays the revenue generated from hotel bookings in each city. This visualization provides a clear comparison of revenue between the four cities, allowing you to focus on regions with higher revenue potential and make informed decisions to maximize profits.
+
+3. Pie Chart - Distribution of Bookings:
+The pie chart showcases the distribution of bookings across the four cities. This visualization allows you to quickly grasp the market share of each city, enabling you to allocate resources and marketing efforts effectively.
+
+4. Tree Map - Room Category Analysis:
+A tree map presents a hierarchical view of room categories in each city, showing the proportion of bookings for each category. This visualization assists you in understanding the demand for various room types, enabling you to adjust inventory and pricing strategies accordingly.
+
+This Hotel Booking Dataset Dashboard is designed to empower you with valuable insights and help you make data-driven decisions to 
+enhance your hotel business's performance. Enjoy a user-friendly experience that transforms data into actionable information, 
+enabling you to stay ahead in the hospitality industry.

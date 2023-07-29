@@ -1,0 +1,26 @@
+Sales Dashboard, an all-in-one tool that provides a comprehensive analysis of product sales, return orders, product-wise
+profit, revenue generated, and regional sales performance year by year.
+
+1. Year-wise Sales of Products:
+A line chart showcases the sales performance of products over the years. This visualization enables you to identify trends,
+seasonality, and overall growth or decline in sales.
+
+2. Return Orders Analysis:
+A bar chart or stacked bar chart illustrates the number or percentage of return orders for each product. This visualization helps you 
+understand the products with higher return rates, allowing you to address quality or customer satisfaction issues.
+
+3. Product-wise Profit:
+A bar chart or tree map presents the profitability of each product. This visualization allows you to compare profits across products,
+aiding in inventory management and pricing strategies.
+
+4. Revenue Generated:
+A stacked bar chart or area chart displays the total revenue generated each year, segmented by product. This visualization helps you 
+identify the highest revenue-generating products over time.
+
+5. Regional Sales Performance:
+A map or heat map showcases the sales performance across different regions. This visualization helps you pinpoint areas with strong or 
+weak sales, enabling you to focus marketing efforts and sales strategies accordingly.
+
+With this Sales Dashboard, you can gain valuable insights into your business's performance, identify areas for improvement, and make
+data-driven decisions to optimize sales and profitability. Whether you are a sales manager, business owner, or analyst, this dashboard 
+empowers you to drive growth and success in your organization.
